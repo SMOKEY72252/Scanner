@@ -2,7 +2,7 @@ import requests
 import socket
 import random
 import os
-os.system("clear")
+os.system(''clear'')
 
 RED     = '\033[31m'
 GREEN   = '\033[32m'
